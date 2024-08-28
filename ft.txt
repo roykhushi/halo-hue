@@ -1,0 +1,9 @@
+can use react-hot in custom.jsx for alerts
+
+
+cloudinary to save images
+cors : cross origin req  
+dotenv: to store env variables
+express
+mongoose
+openai
